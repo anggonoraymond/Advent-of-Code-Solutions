@@ -1,4 +1,4 @@
-file = open("day1.txt","r")
+file = open("../puzzle_input/day1.txt","r")
 most_calorie = []
 current = 0
 while True:
