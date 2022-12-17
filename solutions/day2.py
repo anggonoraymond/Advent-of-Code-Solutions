@@ -1,5 +1,5 @@
 # Puzzle #1 
-file = open("day2.txt","r")
+file = open("../puzzle_input/day2.txt","r")
 puzzle1_points = 0
 shape_points = {"X":1,"Y":2,"Z":3}
 rule ={"A":{"Y":6,"X":3},"B":{"Z":6,"Y":3},"C":{"X":6,"Z":3}}
